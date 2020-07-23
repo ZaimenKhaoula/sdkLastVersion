@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f849f2a4-303b-4a92-8b42-835627c60621" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MainRouter/src/main/java/pfe/middleware/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainRouter/src/main/java/pfe/middleware/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/SampleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/SampleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/src/main/java/org/sdci/Microservices/Subscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/Microservices-0.0.1-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/Microservices-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/Microservices-0.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Publisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Publisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Subscriber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Subscriber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Subscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/classes/org/sdci/Microservices/Subscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/surefire-reports/TEST-org.sdci.Microservices.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/surefire-reports/TEST-org.sdci.Microservices.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/target/surefire-reports/org.sdci.Microservices.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservices/target/surefire-reports/org.sdci.Microservices.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Router/src/main/java/pfe/middleware/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Router/src/main/java/pfe/middleware/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sdci/sdk/service/BasicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sdci/sdk/service/BasicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/sdci/sdk/service/BasicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/sdci/sdk/service/BasicService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdk-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdk-1.0.0.jar" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/service/BasicService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="272" lean-forward="true" selection-start-line="272" selection-end-line="272" />
+              <folding>
+                <element signature="method#XTerminate#0;class#BasicService#0" />
+                <element signature="method#XSendResponse#0;class#BasicService#0" />
+                <element signature="method#XSubscribeToTopic#0;class#BasicService#0" />
+                <element signature="method#XPublishMessage#0;class#BasicService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[config</find>
+      <find>TimeOu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/sdci/sdk/service/BasicService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sdk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sdk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="communication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f849f2a4-303b-4a92-8b42-835627c60621" name="Default Changelist" comment="" />
+      <created>1566831979969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566831979969</updated>
+      <workItem from="1566831984727" duration="724000" />
+      <workItem from="1566968672386" duration="2806000" />
+      <workItem from="1567030710607" duration="5249000" />
+      <workItem from="1567084824394" duration="1054000" />
+      <workItem from="1567100873385" duration="14054000" />
+      <workItem from="1567327425319" duration="428000" />
+      <workItem from="1567331824616" duration="574000" />
+      <workItem from="1567580593307" duration="1550000" />
+      <workItem from="1567779964860" duration="1668000" />
+      <workItem from="1568307283384" duration="609000" />
+      <workItem from="1568367786814" duration="3585000" />
+      <workItem from="1568473742875" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32839000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="725" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13004847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42465752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15955766" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.17528272" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15266559" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23835616" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27671233" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.17528272" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../GeneralController/src/main/java/pfe/mw/controllers/NCEM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/ICommunicationFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/IConfigurableService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/IPublisherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/IServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/IClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/communication/ISubscriberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="133" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/sdci/sdk/service/BasicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="272" lean-forward="true" selection-start-line="272" selection-end-line="272" />
+          <folding>
+            <element signature="method#XTerminate#0;class#BasicService#0" />
+            <element signature="method#XSendResponse#0;class#BasicService#0" />
+            <element signature="method#XSubscribeToTopic#0;class#BasicService#0" />
+            <element signature="method#XPublishMessage#0;class#BasicService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
